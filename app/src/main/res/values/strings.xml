@@ -6,6 +6,12 @@
     <string name="move_with_result">PINDAH AKTIVITAS UNTUK RESULT</string>
     <string name="result_from_activity">HASIL DARI AKTIVITAS</string>
     <string name="choose_color">PILIH WARNA YANG KAMU SUKA</string>
+    <string name="choose_bus_name">PILIH NAMA BUS</string>
+    <string name="sudiro_tungga_jaya">SUDIRO TUNGGA JAYA</string>
+    <string name="tentrem">TENTREM</string>
+    <string name="restu">RESTU</string>
+    <string name="rosalia_indah">ROSALIA INDAH</string>
+    <string name="malang_indah">MALANG INDAH</string>
     <string name="_blue">BIRU</string>
     <string name="_green">HIJAU</string>
     <string name="_purple">UNGU</string>
